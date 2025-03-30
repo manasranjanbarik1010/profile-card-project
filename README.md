@@ -26,6 +26,7 @@ This is a **Profile Card** project that displays user information with a **dark 
 
 ## 🎨 UI Preview
 ![Profile Card Preview](images/screenshot.png)
+![Profile Card Preview with Dark Mode](images/screenshot-dark-mode.png)
 
 ## 🔧 How to Use
 1. **Clone the repository**:  
